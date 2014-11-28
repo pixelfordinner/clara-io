@@ -22,7 +22,11 @@
   "dependencies": {
     "commander": "*",
     "untildify": "*",
-    "node-curl": "*",
-    "chalk": "*"
+    "fa": "*",
+    "superagent": "*",
+    "progress": "*",
+    "chalk": "*",
+    "JSONSelect": "*",
+    "sequence": "*"
   }
 }
